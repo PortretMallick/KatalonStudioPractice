@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_with_Keyword,,,,2020-02-16 19:43:27,2020-02-16 19:43:35,8.026s,FAILED
+,,,,,,,
+Test Cases/amzon,,,,2020-02-16 19:43:28,2020-02-16 19:43:35,7.706s,FAILED
+"openBrowser("""")",,,,2020-02-16 19:43:28,2020-02-16 19:43:35,7.279s,FAILED

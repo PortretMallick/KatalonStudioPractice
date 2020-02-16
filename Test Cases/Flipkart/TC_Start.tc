@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To open the flipkart page</description>
+   <name>TC_Start</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df2ca3ee-5253-449a-b5f1-77607b9e862d</testCaseGuid>
+</TestCaseEntity>
